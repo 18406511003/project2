@@ -2,7 +2,7 @@
 		<div class="row-fluid">
 			<div class="containbox">
 				<div class="span4">
-					<h1 id="logo"><a href="">PHPEMS</a></h1>
+					<h1 id="logo"><a href="">在线考试</a></h1>
 				</div>
 				<div class="span8">
 					<div class="navbar pull-right" id="headermenu">
